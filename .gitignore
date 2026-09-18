@@ -1,6 +1,12 @@
-# TIA Portal temporary and generated files
+# TIA Portal logs and temporary files
 Logs/
 tmp/
+
+# TIA Portal generated/search data
+IM/SearchIndex/
+System/
+Vci/
+XRef/
 
 # Windows temporary files
 Thumbs.db
