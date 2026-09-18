@@ -1,0 +1,12 @@
+# TIA Portal temporary and generated files
+Logs/
+tmp/
+
+# Windows temporary files
+Thumbs.db
+Desktop.ini
+
+# Backup/temp files
+*.bak
+*.tmp
+*~
