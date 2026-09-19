@@ -97,12 +97,8 @@ The original report is included to preserve documentation of the project as it e
 
 ## Demonstration
 
-The completed HMI application was demonstrated on the physical laboratory equipment when the project was originally completed.
+The completed HMI application was implemented and tested using physical Siemens PLC and HMI equipment in the university automation laboratory.
 
-A video recording of the HMI operation was created as part of the original project demonstration.
+The following video was recorded when the original project was completed and demonstrates the HMI application operating on the laboratory equipment:
 
-## Project Purpose
-
-The purpose of this project was to gain hands-on experience developing an HMI application and integrating it with PLC Ladder Logic.
-
-The project provided practical experience using an HMI as the user interface for a PLC application and linking HMI controls and displays to the underlying PLC program.
+[View the Siemens HMI Demonstration](demo/Siemens-HMI-Demo.mp4)
