@@ -101,4 +101,4 @@ The completed HMI application was implemented and tested using physical Siemens 
 
 The following video was recorded when the original project was completed and demonstrates the HMI application operating on the laboratory equipment:
 
-[View the Siemens HMI Demonstration](demo/Siemens-HMI-Demo.mp4)
+[View the Siemens HMI Demonstration](demo/Siemans-HMI-Demo.mp4)
